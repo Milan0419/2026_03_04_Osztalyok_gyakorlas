@@ -1,10 +1,10 @@
 from auto import Auto
 import random
 
-auto1 = Auto("Toyota", "Corolla", 2015)
-auto2 = Auto("Volkswagen", "Passat", 2002)
-auto3 = Auto("Audi", "E-tron GT", 2021)
-auto4= Auto("Bugatti", "Veyron", 2007)
+auto1 = Auto("Toyota", "Corolla", 2015, 6.5)
+auto2 = Auto("Volkswagen", "Passat", 2002, 4.5)
+auto3 = Auto("Audi", "E-tron GT", 2021, 0)
+auto4= Auto("Bugatti", "Veyron", 2007, 18)
 
 # print(auto1)
 # print(auto2)
